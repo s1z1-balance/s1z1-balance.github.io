@@ -30,7 +30,7 @@ html, body {
 .bg {
     position: fixed;
     inset: 0;
-    background-image: url('../assets/background.png');
+    background-image: url('assets/background.png');
     background-size: cover;
     background-position: center;
     filter: contrast(1.7) brightness(0.9);
